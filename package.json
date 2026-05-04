@@ -1,0 +1,7 @@
+{
+  "name": "survival-typescript",
+  "private": true,
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  }
+}
